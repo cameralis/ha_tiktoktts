@@ -1,0 +1,10 @@
+{
+  "domain": "tiktok",
+  "name": "TikTok text-to-speech",
+  "version": "1.0.0",
+  "codeowners": ["@cameralis"],
+  "documentation": "https://github.com/cameralis/ha_tiktoktts",
+  "iot_class": "cloud_push",
+  "loggers": ["tiktoktts"],
+  "requirements": ["requests"]
+}
